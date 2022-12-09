@@ -57,6 +57,7 @@ body{
 	width: 40%;
 	border: none;
 	margin: 10px 10px;
+	
   }
 
   .newRow::after {
@@ -79,7 +80,7 @@ body{
 
 #submit_button
 {
-	float: right;
+	float: left;
 	margin-top: 10px; 
 	margin-bottom: 20px; 
 	padding: 10px 10px 10px 10px;
@@ -88,4 +89,7 @@ body{
 input
 {
 	margin: 3px;
+}
+#pizza_name{
+	float:center
 }
